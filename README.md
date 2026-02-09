@@ -1,6 +1,8 @@
 # 💫 About Me:
 Full Stack Web Developer who likes Anime.
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chrishn.gg) 
